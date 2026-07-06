@@ -284,7 +284,7 @@ Bài test tuyển dụng vị trí **Intern Developer**
 GitHub:
 
 ```
-/TrinhChiTai/TodoListhttps://github.com
+https://github.com/TrinhChiTai/TodoList
 ```
 
 ---
