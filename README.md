@@ -93,7 +93,7 @@ TodoList/
 ## Bước 1: Clone dự án
 
 ```bash
-git clone https://github.com/<username>/TodoList.git
+git clone https://github.com/TrinhChiTai/TodoList.git
 ```
 
 Di chuyển vào thư mục dự án
@@ -272,39 +272,6 @@ Các quy tắc:
 
 ---
 
-# 📸 Hình ảnh minh họa
-
-Có thể bổ sung ảnh giao diện sau khi hoàn thành dự án.
-
-Ví dụ:
-
-```
-docs/
-
-home.png
-
-add-job.png
-
-search.png
-
-edit-job.png
-```
-
----
-
-# 🔮 Hướng phát triển
-
-Có thể mở rộng thêm:
-
-- Đăng nhập / Đăng ký
-- Quản lý nhiều người dùng
-- Phân loại công việc
-- Mức độ ưu tiên
-- Hạn hoàn thành
-- Giao diện Dark Mode
-- Docker
-- Unit Test
-- Triển khai lên Render hoặc Railway
 
 ---
 
@@ -317,7 +284,7 @@ Bài test tuyển dụng vị trí **Intern Developer**
 GitHub:
 
 ```
-https://github.com/<username>
+/TrinhChiTai/TodoListhttps://github.com
 ```
 
 ---
