@@ -177,7 +177,29 @@ Các bảng sẽ được tạo tự động khi chạy ứng dụng lần đầ
 ---
 
 # 📄 API
+Sau khi chạy ứng dụng:
 
+```
+http://127.0.0.1:8000
+```
+
+FastAPI tự động cung cấp tài liệu API:
+
+- Swagger UI
+
+```
+http://127.0.0.1:8000/docs
+```
+
+- ReDoc
+
+```
+http://127.0.0.1:8000/redoc
+```
+
+---
+
+## Danh sách API
 | Phương thức | Endpoint | Chức năng |
 |-------------|----------|-----------|
 | GET | /todos | Lấy danh sách công việc |
